@@ -2,8 +2,7 @@
 
 ## Harrison Yan
 
-I recently graduated from University College London with a First Class Honours in Mathematics and am now training to become a developer.
-Technology excites me because it is continuously evolving so you have to be constantly learning to keep up with it. 
+I recently graduated from University College London with a First Class Honours in Mathematics and am now training to become a developer at [Makers Academy](https://makers.tech/), an intensive 12 week developer bootcamp, working on various projects and learning best practices.
 
 ## Skills
 
@@ -26,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (Nov 2019 to Feb 2020)
+#### Makers Academy (Oct 2019 to Feb 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -68,4 +67,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies
 
-- Powerlifting
+Gaming, Powerlifting, Yoga
