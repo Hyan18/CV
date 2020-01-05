@@ -6,22 +6,11 @@ I recently graduated from University College London with a First Class Honours i
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Attention to detail
+Having done mathematics at university I have become more attentive as there can be cases in problems where very small details can change the solution entirely and when working independently, which is a vital part of university, it is important that you are able to catch where you made mistakes so you can learn from them. I was praised for my attention to detail during an internship at EY where I spotted an error in a fund report which saved a lot of remediation time further down the line.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Teamwork
+I have worked in various team throughout my time at university and internships at EY. An example of this is during one of my internships at EY where we participated in a business challenge at ICAEW. We were grouped in teams and were required to analyse a case study and then present to a panel of judges with a business strategy and my team ended up winning.
 
 ## Education
 
