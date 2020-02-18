@@ -83,4 +83,4 @@ I have worked in various team throughout my time at university and internships a
 
 ## Interests
 
-Gaming, Powerlifting, Yoga
+Gaming, Powerlifting, Meditation, Yoga
