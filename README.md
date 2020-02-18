@@ -1,14 +1,24 @@
-## Harrison Yan
+<h1 align="center">Harrison Yan</h1>
+<p align="center">
 
+<a href="https://www.linkedin.com/in/harrisonyan/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+<a href="https://github.com/Hyan18/MakersPortfolio">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.codewars.com/users/Hyan18">
+<img src="https://camo.githubusercontent.com/c6341567c3ede1b4ee0935509a378c482153026f/687474703a2f2f7777772e736f66746c61622e6e7475612e67722f7e6e69636b69652f696d616765732f6c6f676f2f636f6465776172732e706e67" alt="codewars" hspace="50" height="42" width="42"></a></p>
+
+<div align="center">
+  
 [Projects](#projects) |
 [Skills](#skills) |
 [Experience](#experience) |
 [Education](#education) |
 [Interests](#interests)
 
-[LinkedIn](https://www.linkedin.com/in/harrisonyan/) |
-[Portfolio](https://github.com/Hyan18/MakersPortfolio) |
-[Codewars](https://www.codewars.com/users/Hyan18)
+</div>
 
 I am a full stack web developer which has recently graduated from [Makers Academy](https://makers.tech/), an intensive 12 week developer bootcamp. Before Makers, I graduate from University College London with a First Class Honours in Mathematics which developed many of my skills including problem solving. It was here that I was first introduced to programming through an introductory course in Python and then later an exclusive 2-day intensive workshop hosted by Dr Stephen Lynch FIMA SFHEA. All of this has culminated into a genuine excitement for technology and has made my developer journey a joy, every step of the way.
 
