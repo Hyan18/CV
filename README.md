@@ -28,6 +28,7 @@ I am a full stack web developer which has recently graduated from [Makers Academ
 |--|--|--|--|--|
 | [Mind Over Cells](https://github.com/Hyan18/the-css) [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://the-css.herokuapp.com/) | A group project focusing on Cellular Automata and in particular Conway's Game of Life | 2 weeks | MongoDB, Express, React, Node.js | Jest, Enzyme, Supertest, Travis CI |
 | [Acebook Luckerberg](https://github.com/Hyan18/acebook-luckerberg) [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://acebook-luckerberg.herokuapp.com/)| A Facebook clone recreated using Ruby on Rails as part of a group project | 2 weeks | Ruby on Rails, HTML/CSS, JavaScript (JQuery), PostgreSQL | RSpec, Capybara, Selenium-Webdriver, Travis CI |
+| [Bowling Scorecard](https://github.com/Hyan18/bowling-challenge) | A bowling scorecard built in vanilla Javascript. Allows users to input their rolls and see a dynamically updating scorecard. | 4 days | JavaScript, JQuery, HTML/CSS | Jasmine |
 
 ## Skills
 
@@ -36,6 +37,25 @@ Having done mathematics at university I have become more attentive as there can 
 
 #### Teamwork
 I have worked in various team throughout my time at university and internships at EY. An example of this is during one of my internships at EY where we participated in a business challenge at ICAEW. We were grouped in teams and were required to analyse a case study and then present to a panel of judges with a business strategy and my team ended up winning.
+
+## Experience
+
+**Schroders** (July 2018)    
+*Market Data Intern*  
+- Work shadowing in Commercial Management, Business Services and Business Analysis
+- Attended a one on one Bloomberg terminal training session
+- Extracted information from contracts which was used to update inventory
+- Learnt about and attended meetings on agile project management
+
+**EY** (Aug to Sept 2016 and 2017)   
+*Intern in Wealth & Asset Management Tax*  
+- Collated tax information on hedge funds for inclusion in a research report
+- Picked out key points from reports to be put into a presentation which I created for a leadership strategy meeting
+- Finding reliable factsheets to undertake an analysis of the underlying securities for a tax compliance project
+- Assisted in research for a project to improve online engagement
+- Worked with overseas offices on a tax compliance project
+- Assisted in specialist transparent fund reporting work
+- Presented about the basics of Blockchain
 
 ## Education
 
@@ -58,25 +78,6 @@ I have worked in various team throughout my time at university and internships a
 #### Addey and Stanhope Secondary School (Sept 2009 to June 2014)
 
 - GCSEs: 5 A*'s, 5 A's, 1 B, 1 Distinction
-
-## Experience
-
-**Schroders** (July 2018)    
-*Market Data Intern*  
-- Work shadowing in Commercial Management, Business Services and Business Analysis
-- Attended a one on one Bloomberg terminal training session
-- Extracted information from contracts which was used to update inventory
-- Learnt about and attended meetings on agile project management
-
-**EY** (Aug to Sept 2016 and 2017)   
-*Intern in Wealth & Asset Management Tax*  
-- Collated tax information on hedge funds for inclusion in a research report
-- Picked out key points from reports to be put into a presentation which I created for a leadership strategy meeting
-- Finding reliable factsheets to undertake an analysis of the underlying securities for a tax compliance project
-- Assisted in research for a project to improve online engagement
-- Worked with overseas offices on a tax compliance project
-- Assisted in specialist transparent fund reporting work
-- Presented about the basics of Blockchain
 
 ## Interests
 
