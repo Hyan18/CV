@@ -31,6 +31,7 @@ I am a full stack web developer which has recently graduated from [Makers Academ
 | [Mind Over Cells](https://github.com/Hyan18/the-css) [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://the-css.herokuapp.com/) | A group project focusing on Cellular Automata and in particular Conway's Game of Life | 2 weeks | MongoDB, Express, React, Node.js | Jest, Enzyme, Supertest, Travis CI |
 | [Acebook Luckerberg](https://github.com/Hyan18/acebook-luckerberg) [![](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)](https://acebook-luckerberg.herokuapp.com/)| A Facebook clone recreated using Ruby on Rails as part of a group project | 2 weeks | Ruby on Rails, HTML/CSS, JavaScript (JQuery), PostgreSQL | RSpec, Capybara, Selenium-Webdriver, Travis CI |
 | [Bowling Scorecard](https://github.com/Hyan18/bowling-challenge) | A bowling scorecard built in vanilla Javascript. Allows users to input their rolls and see a dynamically updating scorecard. | 4 days | JavaScript, JQuery, HTML/CSS | Jasmine |
+| [Bank Tech Test](https://github.com/Hyan18/bank-tech-test) | A practice tech test with the task of a program running in IRB that allows users to make deposits, withdrawals and print a bank statement | 2 days | Ruby | RSpec |
 
 ## Skills
 
