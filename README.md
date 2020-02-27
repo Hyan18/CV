@@ -22,7 +22,7 @@
 
 ## About me
 
-I am a full stack web developer which has recently graduated from [Makers Academy](https://makers.tech/), an intensive 12 week developer bootcamp. Before Makers, I graduated from University College London with a First Class Honours in Mathematics which developed many of my skills including problem solving. It was here that I was first introduced to programming through an introductory course in Python and then later an exclusive 2-day intensive workshop hosted by Dr Stephen Lynch FIMA SFHEA. All of this has culminated into a genuine excitement for technology and has made my developer journey a joy, every step of the way.
+I am a full stack web developer which has recently graduated from [Makers Academy](https://makers.tech/), an intensive 16 week developer bootcamp. Before Makers, I graduated from University College London with a First Class Honours in Mathematics which developed many of my skills including problem solving. It was here that I was first introduced to programming through an introductory course in Python and then later an exclusive 2-day intensive workshop hosted by Dr Stephen Lynch FIMA SFHEA. All of this has culminated into a genuine excitement for technology and has made my developer journey a joy, every step of the way.
 
 ## Projects
 
